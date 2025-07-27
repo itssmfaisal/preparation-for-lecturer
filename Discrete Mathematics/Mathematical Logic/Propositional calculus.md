@@ -2,6 +2,14 @@
 
 ## Propositional Calculus
 
+### What is a Proposition?
+
+A **proposition** is a declarative statement that is either **true** (T) or **false** (F), but not both.
+
+> *Example:*  
+> - “The sky is blue.” (This is a proposition; it can be true or false.)
+> - “Close the door.” (This is **not** a proposition; it is a command, not a statement.)
+
 - **Example Statement:**  
     “If it rains, then the ground gets wet.”
 
